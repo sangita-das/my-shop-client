@@ -1,7 +1,8 @@
 import { faPhoneVolume } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
-import './Contact.css'
+import './Contact.css';
+
 const Contact = () => {
   return (
     <section className="contact my-5 py-5 mx-5 px-5 rounded shadow-lg">

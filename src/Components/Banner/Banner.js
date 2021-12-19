@@ -25,7 +25,7 @@ const Banner = () => {
              
               </div>
               <Link to={``}>
-                <button className="btn btn-light text-success fw-bold">Explore</button>
+                <button className="btn btn-light text-success fw-bold">Explore More</button>
               </Link>
             </div>
           </Carousel.Caption>
@@ -45,11 +45,10 @@ const Banner = () => {
                   "MyShop", Enjoy Your Day.</strong></h1>
                 <br />
                 <br />
-                <h5 className="text-light fw-bold">We provide travelers with an authentic Jordanian experience that they
-                  <br />can remember for the rest of their lives </h5>
+                
               </div>
               <Link to={``}>
-                <button className="btn btn-light text-success fw-bold">Top Destination</button>
+                <button className="btn btn-light text-success fw-bold">Explore More</button>
               </Link>
             </div>
           </Carousel.Caption>
@@ -68,11 +67,10 @@ const Banner = () => {
                   "MyShop", Enjoy Your Day.</strong></h1>
                 <br />
                 <br />
-                <h5 className="text-light fw-bold">We provide travelers with an authentic Jordanian experience that they
-                  <br />can remember for the rest of their lives </h5>
+               
               </div>
               <Link to={``}>
-                <button className="btn btn-light text-success fw-bold">Top Destination</button>
+                <button className="btn btn-light text-success fw-bold">Explore More</button>
               </Link>
             </div>
           </Carousel.Caption>

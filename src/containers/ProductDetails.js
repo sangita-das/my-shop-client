@@ -27,7 +27,6 @@ const ProductDetails = () => {
     };
   }, [productId]);
   return (
- 
     <div className="ui grid container">
       {Object.keys(product).length === 0 ? (
         <div>...Loading</div>
@@ -58,7 +57,6 @@ const ProductDetails = () => {
         </div>
       )}
     </div>
-  
   );
 };
 
